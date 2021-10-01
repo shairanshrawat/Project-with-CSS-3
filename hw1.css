@@ -47,7 +47,7 @@ nav>a {
 
 .left {
     position: absolute;
-    background-color: rgb(128, 160, 55);
+    background-color: #0a4275;
     width: 20%;
     height: 100%;
     top: 246px;
@@ -63,15 +63,13 @@ section {
 }
 
 aside img {
-    width: 190px;
+    width: 93%;
     height: 80px;
     display: block;
     border: 2px solid black;
-    margin-left: 25px;
-    margin-top: 25px;
-    margin-bottom: 25px;
-    margin-right: 25px;
+    margin: 20px 5px;
     align-self: center;
+    border-radius: 5px;
 }
 
 table {
